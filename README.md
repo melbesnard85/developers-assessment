@@ -5,6 +5,7 @@ Thank you for your interest in a developer role at **genieX** - we’re excited 
 
 - **Backend Assessment:** [backend.md](backend.md)
 - **Fullstack Assessment:** [fullstack.md](fullstack.md)
+- **Frontend Assessment:** [frontend.md](frontend.md)
 
 ---
 
